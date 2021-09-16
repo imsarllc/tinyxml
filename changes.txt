@@ -297,3 +297,5 @@ Changes in version 2.1.5
 - Eddie Cohen identified a missing qualifier resulting in a compilation error on some systems.
 - Fixed a line ending bug. (What year is this? Can we all agree on a format for text files? Please? ...oh well.)
 
+2.7.0
+- Switched to CMAKE
