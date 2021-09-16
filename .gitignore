@@ -1,0 +1,5 @@
+build
+*~
+doc/html
+doc/html-dev
+doc/latex
