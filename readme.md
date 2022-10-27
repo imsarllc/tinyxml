@@ -8,7 +8,7 @@
 
 # <font face="Arial, Helvetica, sans-serif">![](http://www.grinninglizard.com/tinyxml/tinyxml.jpg)</font>
 
-<font face="Arial, Helvetica, sans-serif">TinyXML is a simple, small, C++ XML parser that can be easily integrating into other programs.</font>
+<font face="Arial, Helvetica, sans-serif">TinyXML is a simple, small C++ XML parser that can be easily integrating into other programs.</font>
 
 <font face="Arial, Helvetica, sans-serif">You may want to consider [TinyXML-2](http://www.grinninglizard.com/tinyxml2/index.html).</font>
 
